@@ -6,4 +6,4 @@
 - 📫 Here, you will find traces of my journey, examine my projects and be able to contact me. I can't wait to sail to new horizons together!
 
 Ferhat K. Gündoğdu @Fkg86
-![image](https://github.com/user-attachments/assets/7dd0e436-3ab0-44bd-b211-1d26c8dcabae)
+
